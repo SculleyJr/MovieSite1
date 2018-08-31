@@ -1,0 +1,14 @@
+body{
+    background: gray;
+    color: pink;
+}
+
+td{
+    table-layout: fixed;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+#header{
+    text-align: center;
+    padding-bottom: 15pt
+}
